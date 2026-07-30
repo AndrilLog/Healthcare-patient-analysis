@@ -112,4 +112,4 @@ The interactive dashboard includes:
 **Andril Aravazhi**
 
 - GitHub: https://github.com/AndrilLog
-- LinkedIn: *(Add your LinkedIn profile URL here.)*
+- LinkedIn: https://www.linkedin.com/in/andril-a-360691364
