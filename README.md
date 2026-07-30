@@ -106,6 +106,11 @@ The interactive dashboard includes:
 - Power BI Development
 
 ---
+## 📁 Dataset
+
+This project uses a publicly available healthcare dataset for educational and portfolio purposes.
+
+---
 
 ## 📬 Contact
 
