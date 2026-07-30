@@ -60,6 +60,7 @@ Healthcare-patient-analysis/
 
 ## 📊 Dashboard Preview
 
+![Healthcare Dashboard](Image_Healthcare_dashboard.png)
 
 ---
 
